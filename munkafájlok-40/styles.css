@@ -76,6 +76,7 @@ dt{
 fieldset{
     width: 680px;
     padding: 10px;
+    margin: 0 auto 0 auto;
 }
 .mezo-sor{
     margin: 5px 0;
@@ -98,4 +99,7 @@ input[type='submit']{
 }
 input[type='reset']{
     color: red;
+}
+input[type='text']{
+    width: 300px;
 }
